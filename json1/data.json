@@ -1,0 +1,34 @@
+{
+    "books": [
+        {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "genre": "Classic",
+            "isbn": "9780743273565"
+        },
+        {
+            "title": "1984",
+            "author": "George Orwell",
+            "genre": "Dystopian",
+            "isbn": "9780451524935"
+        },
+        {
+            "title": "Moby-Dick",
+            "author": "Herman Melville",
+            "genre": "Adventure",
+            "isbn": "9781503280786"
+        },
+        {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "genre": "Fiction",
+            "isbn": "9780061120084"
+        },
+        {
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "genre": "Fiction",
+            "isbn": "9780316769488"
+        }
+    ]
+}
