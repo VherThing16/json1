@@ -1,73 +1,77 @@
-[
-    {
-      "id": 1,
-      "title": "The Great Gatsby",
-      "author": "F. Scott Fitzgerald",
-      "genre": "Classic",
-      "available": true
-    },
-    {
-      "id": 2,
-      "title": "To Kill a Mockingbird",
-      "author": "Harper Lee",
-      "genre": "Fiction",
-      "available": false
-    },
-    {
-      "id": 3,
-      "title": "1984",
-      "author": "George Orwell",
-      "genre": "Dystopian",
-      "available": true
-    },
-    {
-      "id": 4,
-      "title": "Moby-Dick",
-      "author": "Herman Melville",
-      "genre": "Adventure",
-      "available": false
-    },
-    {
-      "id": 5,
-      "title": "The Catcher in the Rye",
-      "author": "J.D. Salinger",
-      "genre": "Fiction",
-      "available": true
-    },
-    {
-      "id": 6,
-      "title": "Brave New World",
-      "author": "Aldous Huxley",
-      "genre": "Science Fiction",
-      "available": false
-    },
-    {
-      "id": 7,
-      "title": "Pride and Prejudice",
-      "author": "Jane Austen",
-      "genre": "Romance",
-      "available": true
-    },
-    {
-      "id": 8,
-      "title": "The Hobbit",
-      "author": "J.R.R. Tolkien",
-      "genre": "Fantasy",
-      "available": true
-    },
-    {
-      "id": 9,
-      "title": "The Lord of the Rings",
-      "author": "J.R.R. Tolkien",
-      "genre": "Fantasy",
-      "available": false
-    },
-    {
-      "id": 10,
-      "title": "Fahrenheit 451",
-      "author": "Ray Bradbury",
-      "genre": "Dystopian",
-      "available": true
-    }
-  ]
-  
+{
+   "books": [
+     {
+       "id": 1,
+       "title": "The Great Gatsby",
+       "author": "F. Scott Fitzgerald",
+       "genre": "Fiction",
+       "status": true
+     },
+     {
+       "id": 2,
+       "title": "To Kill a Mockingbird",
+       "author": "Harper Lee",
+       "genre": "Fiction",
+       "status": false
+     },
+     {
+       "id": 3,
+       "title": "1984",
+       "author": "George Orwell",
+       "genre": "Dystopian",
+       "status": true
+     },
+     {
+       "id": 4,
+       "title": "Moby-Dick",
+       "author": "Herman Melville",
+       "genre": "Adventure",
+       "status": true
+     },
+     {
+       "id": 5,
+       "title": "Pride and Prejudice",
+       "author": "Jane Austen",
+       "genre": "Romance",
+       "status": false
+     },
+     {
+       "id": 6,
+       "title": "Brave New World",
+       "author": "Aldous Huxley",
+       "genre": "Science Fiction",
+       "status": true
+     },
+     {
+       "id": 7,
+       "title": "The Hobbit",
+       "author": "J.R.R. Tolkien",
+       "genre": "Fantasy",
+       "status": false
+     },
+     {
+       "id": 8,
+       "title": "Fahrenheit 451",
+       "author": "Ray Bradbury",
+       "genre": "Dystopian",
+       "status": true
+     },
+     {
+       "id": 9,
+       "title": "The Catcher in the Rye",
+       "author": "J.D. Salinger",
+       "genre": "Fiction",
+       "status": false
+     },
+     {
+       "id": 10,
+       "title": "The Lord of the Rings",
+       "author": "J.R.R. Tolkien",
+       "genre": "Fantasy",
+       "status": true
+     },
+     {
+       "id": 11,
+       "title": "The Chronicles of Narnia",
+       "author": "C.S. Lewis",
+       "
