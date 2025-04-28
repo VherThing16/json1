@@ -1,77 +1,110 @@
 {
-   "books": [
-     {
-       "id": 1,
-       "title": "The Great Gatsby",
-       "author": "F. Scott Fitzgerald",
-       "genre": "Fiction",
-       "status": true
-     },
-     {
-       "id": 2,
-       "title": "To Kill a Mockingbird",
-       "author": "Harper Lee",
-       "genre": "Fiction",
-       "status": false
-     },
-     {
-       "id": 3,
-       "title": "1984",
-       "author": "George Orwell",
-       "genre": "Dystopian",
-       "status": true
-     },
-     {
-       "id": 4,
-       "title": "Moby-Dick",
-       "author": "Herman Melville",
-       "genre": "Adventure",
-       "status": true
-     },
-     {
-       "id": 5,
-       "title": "Pride and Prejudice",
-       "author": "Jane Austen",
-       "genre": "Romance",
-       "status": false
-     },
-     {
-       "id": 6,
-       "title": "Brave New World",
-       "author": "Aldous Huxley",
-       "genre": "Science Fiction",
-       "status": true
-     },
-     {
-       "id": 7,
-       "title": "The Hobbit",
-       "author": "J.R.R. Tolkien",
-       "genre": "Fantasy",
-       "status": false
-     },
-     {
-       "id": 8,
-       "title": "Fahrenheit 451",
-       "author": "Ray Bradbury",
-       "genre": "Dystopian",
-       "status": true
-     },
-     {
-       "id": 9,
-       "title": "The Catcher in the Rye",
-       "author": "J.D. Salinger",
-       "genre": "Fiction",
-       "status": false
-     },
-     {
-       "id": 10,
-       "title": "The Lord of the Rings",
-       "author": "J.R.R. Tolkien",
-       "genre": "Fantasy",
-       "status": true
-     },
-     {
-       "id": 11,
-       "title": "The Chronicles of Narnia",
-       "author": "C.S. Lewis",
-       "
+    "books": [
+      {
+        "id": 1,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Fiction",
+        "status": true
+      },
+      {
+        "id": 2,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Fiction",
+        "status": false
+      },
+      {
+        "id": 3,
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Dystopian",
+        "status": true
+      },
+      {
+        "id": 4,
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "genre": "Adventure",
+        "status": true
+      },
+      {
+        "id": 5,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Romance",
+        "status": false
+      },
+      {
+        "id": 6,
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "genre": "Science Fiction",
+        "status": true
+      },
+      {
+        "id": 7,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "status": false
+      },
+      {
+        "id": 8,
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "genre": "Dystopian",
+        "status": true
+      },
+      {
+        "id": 9,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "genre": "Fiction",
+        "status": false
+      },
+      {
+        "id": 10,
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "status": true
+      },
+      {
+        "id": 11,
+        "title": "The Chronicles of Narnia",
+        "author": "C.S. Lewis",
+        "genre": "Fantasy",
+        "status": true
+      },
+      {
+        "id": 12,
+        "title": "Catch-22",
+        "author": "Joseph Heller",
+        "genre": "Satire",
+        "status": false
+      },
+      {
+        "id": 13,
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "genre": "Political Satire",
+        "status": true
+      },
+      {
+        "id": 14,
+        "title": "The Grapes of Wrath",
+        "author": "John Steinbeck",
+        "genre": "Fiction",
+        "status": true
+      },
+      {
+        "id": 15,
+        "title": "The Fault in Our Stars",
+        "author": "John Green",
+        "genre": "Young Adult",
+        "status": false
+      }
+    ]
+ }
+ 
